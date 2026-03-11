@@ -1,1 +1,5 @@
-# Jokempo-2026-main
+# CP01-Jokempo
+
+-- Augusto Ferreira Rogel de Souza / RM 557709
+-- Heitor Prestes / RM 554823
+-- Lucca Ribeiro / RM 556668
